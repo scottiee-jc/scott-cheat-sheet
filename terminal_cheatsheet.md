@@ -30,7 +30,7 @@ Here is a list of some easy-to-follow command-lines to get started using termina
 
 **rm** this command fully removes a file from the system.
 
-    *rm -r* is used to remove a folder or directory from the operating system FOREVER! So, be warned...
+  *rm -r* is used to remove a folder or directory from the operating system FOREVER! So, be warned...
 
 #### Creating a repository
 
