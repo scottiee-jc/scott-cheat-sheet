@@ -10,11 +10,11 @@ Here is a list of some easy-to-follow command-lines to get started using termina
 
 **ls** is a list command, which brings up the list of folders within its parent folder. From here, you can use commands that will request further detail:
 
-*ls -l* stands for "long-list" and this gives more information about the location and changes to each folder and file
+    *ls -l* stands for "long-list" and this gives more information about the location and changes to each folder and file
 
-*ls -a* brings up all files and folders, including hidden ones
+    *ls -a* brings up all files and folders, including hidden ones
 
-*ls -al* brings up a long list of everything within the root directory
+    *ls -al* brings up a long list of everything within the root directory
 
 **Clear** is a useful command that moves your previous command lines above the current screen, without removing it, so you have a nice clear space to work within
 
@@ -24,5 +24,9 @@ Here is a list of some easy-to-follow command-lines to get started using termina
 
 **touch** is a command for creating a *file*. When creating a file, there are three key components. The touch command, the file name, and the extension. An example is "touch file_name.txt". A space is left between touch and the file, which is seperated by an underscore, and finally superceded by a ".txt, .png, .md" etc. depending on what file attachement you are creating.
 
-**mv** is a command to either move or rename a file. To move a file, you'll need to type 
+**mv** is a command to either move or rename a file. To move a file, you'll need to type "mv" the name of the file, add a space and then the name of the folder you're attempting to move the file to. Alternatively, to rename the the file, you simply type 'mv' and the name of the file after, e.g. "mv name_of_file.txt"
+
+**rm** this command fully removes a file from the system.
+
+   *rm -r* is used to remove a folder or directory from the operating system FOREVER! So, be warned...
 
